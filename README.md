@@ -1,4 +1,4 @@
-# Analysez des  données de systèmes éeducatifs
+# Analysez des  données de systèmes éducatifs
 https://openclassrooms.com/fr/paths/164/projects/627/assignment
 
 
