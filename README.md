@@ -1,5 +1,4 @@
 # Analysez des  données de systèmes éducatifs
-https://openclassrooms.com/fr/paths/164/projects/627/assignment
 
 
 Vous êtes Data Scientist dans une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
